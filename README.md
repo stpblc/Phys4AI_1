@@ -2,7 +2,7 @@
 "The Physics Foundations of AI: Part I", Chinese Edition
 
 # 人工智能的物理学基础（一）
-- 作者：兰晨
+- 作者：兰晨，耿慧芳
 - 单位：烟台大学，物理与电子信息学院
 - 时间：2026年7月29日
 - 版本：v1
