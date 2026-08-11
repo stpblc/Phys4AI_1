@@ -15,4 +15,5 @@
 本讲义面向具有大学物理基础、但未必受过系统机器学习训练的读者，尤其适合物理、数学及相关专业的本科生与研究生。写作时始终强调物理直觉、数学推导与计算实验三者之间的相互印证，而不是单纯的类比罗列。
 
 **汉语版本**：https://github.com/stpblc/Phys4AI_1/blob/main/人工智能的物理学基础_v1.pdf
+
 **英语版本** https://github.com/stpblc/Phys4AI_1/blob/main/Physics%20Foundations%20of%20AI_Part%20I.pdf
