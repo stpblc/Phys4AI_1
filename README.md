@@ -16,4 +16,4 @@
 
 **汉语版本**：https://github.com/stpblc/Phys4AI_1/blob/main/人工智能的物理学基础_v1.pdf
 
-**英语版本** https://github.com/stpblc/Phys4AI_1/blob/main/Physics%20Foundations%20of%20AI_Part%20I.pdf
+**英语版本**：https://github.com/stpblc/Phys4AI_1/blob/main/Physics%20Foundations%20of%20AI_Part%20I.pdf
