@@ -1,7 +1,11 @@
 # Phys4AI_1
-"The Physics Foundations of AI: Part I", Chinese Edition
+"The Physics Foundations of AI: Part I", English & Chinese Edition
 
-# Citation
+## Abstract
+
+These lecture notes introduce the basic ideas and mathematical foundations of artificial intelligence from the viewpoint of physics, with particular emphasis on the deep connection between statistical mechanics and machine learning. Although traditionally regarded as distinct fields--the former studies physical systems with a vast number of microscopic degrees of freedom, while the latter focuses on extracting regularities from data--both deal with complex, high-dimensional, stochastic systems whose macroscopic behavior emerges from many interacting degrees of freedom. As a result, they share a common mathematical language, including probability distributions, entropy, free energy, the partition function, fluctuations, and phase transitions. This framework provides a unified perspective for understanding probabilistic models, loss functions, model complexity, and generalization in machine learning. The work is organized into three parts. The present notes constitute Part I, which begins with probabilistic and statistical descriptions and introduces entropy, free energy, the partition function, and the Boltzmann distribution, showing how these concepts repeatedly appear, under different names, throughout machine learning. Part II will discuss physical models of neural networks, while Part III will focus on optimization and learning dynamics. Together, the three parts establish a continuous connection from statistical description and model structure to the learning process. These notes are intended for readers with a university-level background in physics, mathematics, or related fields, without requiring systematic training in machine learning. Throughout, emphasis is placed on the interplay between physical intuition, mathematical derivation, and computational experiments, rather than on superficial analogies between physics and artificial intelligence.
+
+## Citation
 If you use, reference, or build upon these lecture notes, please cite the following record:
 
 > Chen, L. and Geng, H. (2026). *The Physics Foundations of AI: Part I*. Zenodo.  
@@ -11,6 +15,8 @@ If you use, reference, or build upon these lecture notes, please cite the follow
 
 The DOI refers to the archived version of the lecture notes. For the latest version and accompanying materials, please refer to this repository.
 
+------------
+
 # 人工智能的物理学基础（一）
 - 作者：兰晨，耿慧芳
 - 单位：烟台大学，物理与电子信息学院
@@ -18,12 +24,8 @@ The DOI refers to the archived version of the lecture notes. For the latest vers
 - 版本：v1
   
 ## 摘要
-本讲义尝试从物理学的角度，介绍人工智能的基本思想与数学基础，重点是统计力学与机器学习之间的深刻联系。这两个领域通常被视为彼此独立：前者研究由大量微观自由度构成的物理系统，后者研究如何从数据中提取规律。但二者都要处理高维、随机、由大量自由度共同决定宏观行为的复杂系统，也因此共享一套数学结构——概率分布、熵、自由能、配分函数、涨落与相变——这套语言同样可以用来理解机器学习中的概率模型、损失函数、模型复杂度与泛化行为。
+本讲义尝试从物理学的角度，介绍人工智能的基本思想与数学基础，重点是统计力学与机器学习之间的深刻联系。这两个领域通常被视为彼此独立：前者研究由大量微观自由度构成的物理系统，后者研究如何从数据中提取规律。但二者都要处理高维、随机、由大量自由度共同决定宏观行为的复杂系统，也因此共享一套数学结构——概率分布、熵、自由能、配分函数、涨落与相变——这套语言同样可以用来理解机器学习中的概率模型、损失函数、模型复杂度与泛化行为。全部讲义计划分三个部分。本卷是第一部分，从概率和统计描述出发，依次引入熵、自由能、配分函数与玻尔兹曼分布，并展示这些概念如何在机器学习中反复出现、以不同的名字延续下去。第二部分将讨论神经网络的物理模型，第三部分转向优化与学习动力学；三部分合起来，构成一条从统计描述、到模型结构、再到学习过程的完整线索。本讲义面向具有大学物理基础、但未必受过系统机器学习训练的读者，尤其适合物理、数学及相关专业的本科生与研究生。写作时始终强调物理直觉、数学推导与计算实验三者之间的相互印证，而不是单纯的类比罗列。
 
-全部讲义计划分三个部分。本卷是第一部分，从概率和统计描述出发，依次引入熵、自由能、配分函数与玻尔兹曼分布，并展示这些概念如何在机器学习中反复出现、以不同的名字延续下去。第二部分将讨论神经网络的物理模型，第三部分转向优化与学习动力学；三部分合起来，构成一条从统计描述、到模型结构、再到学习过程的完整线索。
+**汉语版本(Chinese)**：https://github.com/stpblc/Phys4AI_1/blob/main/人工智能的物理学基础_v1.pdf
 
-本讲义面向具有大学物理基础、但未必受过系统机器学习训练的读者，尤其适合物理、数学及相关专业的本科生与研究生。写作时始终强调物理直觉、数学推导与计算实验三者之间的相互印证，而不是单纯的类比罗列。
-
-**汉语版本**：https://github.com/stpblc/Phys4AI_1/blob/main/人工智能的物理学基础_v1.pdf
-
-**英语版本**：https://github.com/stpblc/Phys4AI_1/blob/main/Physics%20Foundations%20of%20AI_Part%20I.pdf
+**英语版本(English)**：https://github.com/stpblc/Phys4AI_1/blob/main/Physics%20Foundations%20of%20AI_Part%20I.pdf
