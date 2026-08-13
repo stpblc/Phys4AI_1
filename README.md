@@ -1,6 +1,16 @@
 # Phys4AI_1
 "The Physics Foundations of AI: Part I", Chinese Edition
 
+# Citation
+If you use, reference, or build upon these lecture notes, please cite the following record:
+
+> Chen, L. and Geng, H. (2026). *The Physics Foundations of AI: Part I*. Zenodo.  
+> https://doi.org/10.5281/zenodo.21910432
+
+**DOI:** [10.5281/zenodo.21910432](https://doi.org/10.5281/zenodo.21910432)
+
+The DOI refers to the archived version of the lecture notes. For the latest version and accompanying materials, please refer to this repository.
+
 # 人工智能的物理学基础（一）
 - 作者：兰晨，耿慧芳
 - 单位：烟台大学，物理与电子信息学院
